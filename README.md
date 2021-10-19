@@ -2,11 +2,12 @@
 This is the formula for a Gaussian function
 
 f(x)= 
+
 ![image](https://user-images.githubusercontent.com/69425502/137986930-6c950158-c0ca-469c-932b-be000f9f0a30.png)
 
 f(x)	=	probability density function
-\sigma	=	standard deviation
-\mu	=	mean
+sigma	=	standard deviation
+mu	=	mean
 
 This code is a Python package that calculates the Gaussian Distribution of a number. The project contains:
 * an ___init__.py_ file to determine how the package gets imported.
